@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    scroll-behavior: smooth;   
+}
+.main-contain::-webkit-scrollbar{
+    display: none;
+}
+.main-contain{
+    scrollbar-width: none;
+}
