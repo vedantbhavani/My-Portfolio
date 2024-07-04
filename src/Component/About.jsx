@@ -3,9 +3,8 @@ import { useRef } from "react"
 
 const Home = () => {
   const divisable = useRef(null)
-
   return (
-    <div id='about'>
+    <div id='about' className="position-sticky top-14">
       <div className="w-full about-container pb-10">
         <h2 className="text-4xl pt-20 text-center underline text-white" data-aos="fade-down">ᗩᗷᗝᑌ丅 ᗰᗴ</h2>
         <div className="aboutpara mt-10 relative flex justify-around">

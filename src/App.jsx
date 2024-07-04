@@ -11,7 +11,6 @@ import Contact from './Component/Contact';
 import AOS from 'aos'
 import 'aos/dist/aos.css';
 
-
 function App() {
   useEffect(() => {
     AOS.init({ duration: 1200 })
@@ -31,5 +30,4 @@ function App() {
     </>
   )
 }
-
 export default App

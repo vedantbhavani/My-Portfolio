@@ -19,7 +19,6 @@ const Navbar = () => {
                         <a href='#experience' className="mr-5 hover:text-white cursor-pointer">Experience</a>
                         <a href='#contact' className="mr-5 hover:text-white cursor-pointer">Contact</a>
                     </nav>
-
                 </div>
             </header>
         </>
