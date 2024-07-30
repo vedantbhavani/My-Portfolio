@@ -17,16 +17,16 @@ function App() {
   }, [])
   return (
     <>
-    <div className="overflow-hidden main-contain scroll">
-    <Navbar/>
-    <Home/>
-    <About/>
-    <Skill/>
-    <Education/>
-    <Work/>
-    <Experience/>
-    <Contact/>
-    </div>
+      <div className="overflow-hidden main-contain scroll">
+        <Navbar />
+        <Home />
+        <About />
+        <Skill />
+        <Education />
+        <Work />
+        <Experience />
+        <Contact />
+      </div>
     </>
   )
 }
