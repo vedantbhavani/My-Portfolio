@@ -3,7 +3,7 @@ import '../StyleSheet/Home.css'
 const Experience = () => {
   return (
     <div id='experience'>
-      <h2  data-aos="flip-right" data-aos-duration="2000" className='text-center text-white pt-16 text-4xl pb-10'>React Developer at <span className='text-yellow-400 font-bold'>Soft Solution Services</span></h2>
+      <h2 data-aos="flip-right" data-aos-duration="2000" className='text-center text-white pt-16 text-4xl pb-10'>React Developer at <span className='text-yellow-400 font-bold'>Soft Solution Services</span></h2>
       <div className="exp-contain p-6 items-center flex w-3/4 rounded-3xl mx-auto">
         <img data-aos="zoom-out" data-aos-duration="3000" className='w-52 mr-6' src="/src/Icons/react.png" alt="" />
         <div data-aos="zoon-in" data-aos-duration="4000" className="exp-container text-white leading-8  text-xl ">
